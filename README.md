@@ -1,5 +1,8 @@
 # 简单神经网络Demo
 
+Github仓库地址: https://github.com/CarrotFish/fmnist-mlp-classifier-demo
+训练好的权重`best_0.9021.nnpt`在此仓库内
+
 ## 配置环境
 ### Dependence
 - python 3.12
