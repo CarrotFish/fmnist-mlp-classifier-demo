@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+.conda
+fashion_mnist_master
+test_simple.nnpt
+test_simple.py
